@@ -1,0 +1,7 @@
+install react-intersection-observer
+useEffect
+-> untuk deteksi akhir halaman 
+
+Framer (motion in website)
+install framer-motion
+-> untuk animasi scroll
